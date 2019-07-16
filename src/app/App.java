@@ -7,7 +7,6 @@ public class App {
 
 		System.out.println("Hello world to the standard out");
 		
-		
 	}
 
 }
